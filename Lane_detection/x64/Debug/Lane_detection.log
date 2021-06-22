@@ -1,0 +1,94 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(519,5): warning MSB8028: 中繼目錄 (x64\Debug\) 包含從其他專案 (M10915106_HW3.vcxproj) 共用的檔案。這可能導致錯誤的清除和重建行為。
+  Lane_detection.cpp
+C:\Users\shungfu\Documents\色彩所\Lane_detection\Lane_detection\Lane_detection.cpp(25,17): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\shungfu\Documents\色彩所\Lane_detection\Lane_detection\Lane_detection.cpp(26,16): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\shungfu\Documents\色彩所\Lane_detection\Lane_detection\Lane_detection.cpp(34,38): warning C4244: '引數': 將 'double' 轉換為 '_Tp'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\shungfu\Documents\色彩所\Lane_detection\Lane_detection\Lane_detection.cpp(35,52): warning C4244: '引數': 將 'float' 轉換為 '_Tp'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\shungfu\Documents\色彩所\Lane_detection\Lane_detection\Lane_detection.cpp(35,34): warning C4244: '引數': 將 'double' 轉換為 '_Tp'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\shungfu\Documents\色彩所\Lane_detection\Lane_detection\Lane_detection.cpp(36,52): warning C4244: '引數': 將 'float' 轉換為 '_Tp'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\shungfu\Documents\色彩所\Lane_detection\Lane_detection\Lane_detection.cpp(36,34): warning C4244: '引數': 將 'double' 轉換為 '_Tp'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\shungfu\Documents\色彩所\Lane_detection\Lane_detection\Lane_detection.cpp(37,48): warning C4244: '引數': 將 'double' 轉換為 '_Tp'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\shungfu\Documents\色彩所\Lane_detection\Lane_detection\Lane_detection.cpp(37,34): warning C4244: '引數': 將 'double' 轉換為 '_Tp'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\shungfu\Documents\色彩所\Lane_detection\Lane_detection\Lane_detection.cpp(41,41): warning C4244: '引數': 將 'float' 轉換為 '_Tp'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\shungfu\Documents\色彩所\Lane_detection\Lane_detection\Lane_detection.cpp(41,34): warning C4244: '引數': 將 'double' 轉換為 '_Tp'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\shungfu\Documents\色彩所\Lane_detection\Lane_detection\Lane_detection.cpp(42,52): warning C4244: '引數': 將 'float' 轉換為 '_Tp'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\shungfu\Documents\色彩所\Lane_detection\Lane_detection\Lane_detection.cpp(42,34): warning C4244: '引數': 將 'double' 轉換為 '_Tp'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\shungfu\Documents\色彩所\Lane_detection\Lane_detection\Lane_detection.cpp(43,52): warning C4244: '引數': 將 'float' 轉換為 '_Tp'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\shungfu\Documents\色彩所\Lane_detection\Lane_detection\Lane_detection.cpp(43,34): warning C4244: '引數': 將 'double' 轉換為 '_Tp'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\shungfu\Documents\色彩所\Lane_detection\Lane_detection\Lane_detection.cpp(44,41): warning C4244: '引數': 將 'float' 轉換為 '_Tp'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\shungfu\Documents\色彩所\Lane_detection\Lane_detection\Lane_detection.cpp(44,34): warning C4244: '引數': 將 'double' 轉換為 '_Tp'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\shungfu\Documents\色彩所\Lane_detection\Lane_detection\Lane_detection.cpp(50,22): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\shungfu\Documents\色彩所\Lane_detection\Lane_detection\Lane_detection.cpp(50,14): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\shungfu\Documents\色彩所\Lane_detection\Lane_detection\Lane_detection.cpp(72,13): warning C4244: '正在初始化': 將 '_Tp' 轉換為 'float'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\shungfu\Documents\色彩所\Lane_detection\Lane_detection\Lane_detection.cpp(73,13): warning C4244: '正在初始化': 將 '_Tp' 轉換為 'float'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\shungfu\Documents\色彩所\Lane_detection\Lane_detection\Lane_detection.cpp(88,26): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\Users\shungfu\Documents\色彩所\Lane_detection\Lane_detection\Lane_detection.cpp(82): warning C4172: 傳回區域變數或暫存的位址: params
+  Lane_detection.vcxproj -> C:\Users\shungfu\Documents\色彩所\Lane_detection\x64\Debug\Lane_detection.exe
